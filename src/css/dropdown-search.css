@@ -1,0 +1,89 @@
+.react-dropdown-select {
+    border-radius: 28px !important;
+}
+
+.searchSpan {
+    background-color: #1D54B4 !important;
+    color: #ffffff;
+    position: absolute;
+    right: 11px;
+    top: 11px;
+    width: 35px;
+    height: 30px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+    font-size: 16px;
+    padding-top: 2px;
+}
+
+.pageClassName,.previous,.next {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    font-size: 10px;
+    padding-top: 4px;
+}
+
+.active{
+    background-color: #2055B5!important;
+    color: #ffffff !important;
+}
+
+.pagination {
+    background-color: #ffffff;
+}
+.pagination li {
+    width: 28px;
+    height: 28px;
+    font-size: 12px;
+    background-color: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    margin: 2px;
+    text-align: center;
+    color: #666666;
+    margin-top: 10px;
+    width: 200px;
+    float: right;
+}
+
+.browser-default {
+    width: 60px!important;
+    height: 35px!important;
+    background-color: #FFFFFF!important;
+    border: 1px solid #E5E5E5!important;
+    box-sizing: border-box!important;
+    border-radius: 5px!important;
+    padding-left: 15px!important;
+    font-size: 12px!important;
+}
+
+.clear-filter {
+    width: 180px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 5px;
+    color: #666666;
+    margin-left: 15%;
+}
+
+.tc {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.custom-switch {
+    padding-left: 6rem!important;
+}
+
+.input {
+    width: 40px !important;
+    height: 30px !important;
+    font-size: 12px !important;
+}
+
+.go {
+   cursor: pointer; 
+}

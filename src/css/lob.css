@@ -1,0 +1,22 @@
+.medi,.exc,.comm,.med {
+    font-style: normal;
+    font-size: 10px;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 1% 4%;
+    width: 6rem;
+    display: inline-block;
+}
+
+.med{
+    background-color: #684999;
+}
+.comm{
+    background-color: #707683;
+}
+.exc{
+    background-color: #F4AF64;
+}
+.medi{
+    background-color: #F89090;
+}

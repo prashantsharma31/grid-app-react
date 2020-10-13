@@ -1,0 +1,25 @@
+.header {
+    font-style: normal;
+font-weight: 500;
+font-size: 12px;
+color: #666666;
+padding: 0%!important;
+border-right: 1px solid #E5E5E5 !important;
+line-height: 45px !important;
+vertical-align: center;
+font-weight: bold;
+}
+
+.clb {
+    vertical-align: text-top !important;
+    margin-left: 15px;
+}
+
+.sorted {
+    color: #2055B5;
+}
+
+.custom-checkbox-header {
+    border-left: 1px solid  #E5E5E5 !important ;
+    margin-left: 10px;
+}

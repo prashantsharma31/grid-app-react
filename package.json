@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,8 +12,13 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "@types/react-paginate": "^6.2.1",
+    "font-awesome": "^4.7.0",
     "react": "^16.13.1",
+    "react-bootstrap-select": "^0.14.0",
     "react-dom": "^16.13.1",
+    "react-dropdown-select": "^4.5.2",
+    "react-paginate": "^6.5.0",
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },

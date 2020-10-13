@@ -1,0 +1,15 @@
+.timer {
+    border: 1px solid;
+    background-color: aqua;
+    border-radius: 10px;
+    max-width: 80px;
+    white-space: nowrap;
+    padding-left: 35px;
+
+}
+
+.timer-container {
+    border:1px solid #E5E5E5;
+    border-radius: 10px;
+    max-width: 200px;
+}

@@ -1,0 +1,22 @@
+.row {
+    background-color: #ffffff !important;
+    font-size: 12px;
+    color: #666666;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.name {
+    color: #2055B5;
+    border-bottom: 1px dashed #2055B5;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+}
+
+.cp-left {
+    padding-left: 3.5rem !important;
+}
